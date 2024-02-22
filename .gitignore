@@ -1,0 +1,5 @@
+# Ignore files here
+config.py
+read.py
+pairs.txt
+__pycache__
